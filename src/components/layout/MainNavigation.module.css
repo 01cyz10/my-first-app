@@ -31,6 +31,14 @@
   color: var(--color-grey-200);
 }
 
+.badge {
+  background-color: lightgray;
+  color: black;
+  border-radius: 12px;
+  padding: 0 1rem;
+  margin-left: 0.5rem;
+}
+
 @media (min-width: 768px) {
   .header ul {
     gap: 0.5rem;
